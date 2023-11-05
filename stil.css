@@ -1,0 +1,48 @@
+.center{
+ 
+   text-align: -webkit-center;
+}
+.renkGri{
+    background-color: #EEEEEE;
+}
+.width90{
+    width: 90%;
+    margin: auto;
+}
+.kutu1{
+    background-color: #7EE5DA;
+    width: 37%;
+   
+    
+}
+.kutu2{
+    background-color: #70CCC2;
+    width: 25.5%;
+    margin: 0px 0.1%;
+  
+    
+}
+.kutu3{
+    background-color: #62B3AA;
+   
+    width: 37.3%;
+}
+.kutu4{
+float:left;
+margin: 15px auto;
+width: 100%;
+
+
+}
+.floatleft{
+    float: left;
+}
+.height{
+    height: 80px;
+    margin-top: 2px;
+}
+
+.padding{
+    padding-top: 10px;
+    height:70px;
+}
